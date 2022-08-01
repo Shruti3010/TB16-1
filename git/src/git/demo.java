@@ -14,11 +14,11 @@ public void m3()
 {
 	System.out.println("vaibhav");
 }
-	public void m4()
+public void m4()
 {
 	System.out.println("funde");
 }
-	public void m5()
+public void m5()
 {
 	System.out.println("avinas");
 }
