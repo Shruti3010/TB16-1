@@ -28,5 +28,7 @@ public static void main(String[] args)
 	d.m1();
 	d.M2();
 	d.m3();
+	d.m4();
+	d.m5();
 }
 }
