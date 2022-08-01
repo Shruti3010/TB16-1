@@ -18,6 +18,10 @@ public void m3()
 {
 	System.out.println("funde");
 }
+	public void m5()
+{
+	System.out.println("avinas");
+}
 public static void main(String[] args) 
 {
 	demo d=new demo();
