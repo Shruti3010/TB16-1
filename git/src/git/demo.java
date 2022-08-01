@@ -14,6 +14,10 @@ public void m3()
 {
 	System.out.println("vaibhav");
 }
+	public void m4()
+{
+	System.out.println("funde");
+}
 public static void main(String[] args) 
 {
 	demo d=new demo();
