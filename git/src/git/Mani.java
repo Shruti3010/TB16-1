@@ -7,7 +7,7 @@ public class Mani {
 			
 			System.out.println("mi");
 		}
-	public static void main(string args[])
+	public static void main(String args[])
 	{
 		System.out.println("git");
                System.out.println("mani");
