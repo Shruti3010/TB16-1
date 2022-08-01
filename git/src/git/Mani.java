@@ -11,6 +11,8 @@ public class Mani {
 	{
 		System.out.println("git");
                System.out.println("mani");
+		 System.out.println("happy");
+		
 	}
 
 }
