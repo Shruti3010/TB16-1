@@ -6,12 +6,13 @@ public class Mani {
 		{
 			
 			System.out.println("mi");
+			System.out.println("happy");
+
 		}
 	public static void main(String args[])
 	{
 		System.out.println("git");
                System.out.println("mani");
-		 System.out.println("happy");
 		
 	}
 
