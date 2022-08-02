@@ -9,6 +9,8 @@ public void m1()
 public void M2()
 {
 	System.out.println("shruti");
+	System.out.println("patil");
+
 }
 public void m3()
 {
